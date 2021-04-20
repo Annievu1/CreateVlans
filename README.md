@@ -4,7 +4,7 @@
 Pyats is a Cisco Network Test & Automation Solution
 
 ## Installation 
-1.Create a virtual environment 
+1. Create a virtual environment 
 2. Use the package manager [pip](https://pypi.org/project/pyats/) to install Pyats and Genie SDK (https://pubhub.devnetcloud.com/media/genie-docs/docs/cookbooks/genie.html)
 3. Pip install requirements.txt to install all dependencies 
 
