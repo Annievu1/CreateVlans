@@ -10,4 +10,5 @@ https://developer.cisco.com/docs/pyats/#!introduction/cisco-pyats-network-test--
 3. Run the command 'pip install -r requirements.txt' to install all dependencies 
 
 ## Use Case 
-This allows you to connect to a switch via SSH and automate the creation of vlans by looping through a defined list of desired vlan number(s) and vlan name(s). 
+This allows you to connect to a switch via SSH and automate the creation of vlans by looping through a defined list of desired vlan number(s) and vlan name(s). The switch in this use case connects to the Cisco always on DevNet Sandbox. 
+https://developer.cisco.com/site/nx-os/
